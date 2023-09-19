@@ -1,0 +1,97 @@
+/* selection universelle  */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-image: url('Rectangle\ 9.svg.png');
+    padding-top:7rem;
+    padding-bottom: 7rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 2000 px;
+}
+
+
+h1{
+   color: #fff; 
+   font-size:2rem;
+   margin-bottom: 1rem;
+   font-family: monospace ;
+}
+
+#header-sentence{
+    color: white;
+    font-weight:100;
+    font-size:1rem;
+    margin-bottom: 1rem;
+    font-family: monospace;
+    font-style: italic;
+}
+
+.btn-cntact{
+    padding: 0.8rem 1rem;
+    cursor: pointer;
+    color: white;
+    border: none;
+    background-color:blue;
+}
+
+h2{
+    color: black; 
+    font-size:2rem;
+    margin-bottom: 1rem;
+    font-family: monospace ;
+    text-align: center;
+
+}
+iframe{
+    text-align: center;
+}
+#sentencetoshow{
+    text-align: center;
+    font-weight:100;
+    font-size:1rem;
+    margin-bottom: 1rem;
+    font-family: monospace;
+    padding-top:7rem;
+    padding-bottom: 7rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.section{
+    padding: 6rem 5rem 6rem 5rem;
+}
+
+h3{
+    color: rgb(69, 69, 227);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.list{
+    margin-left: 1rem;
+}
+ li:hover{
+    color: rgb(69, 69, 227);
+ }
+
+ .end{
+    padding: 6rem 5rem 6rem 5rem;
+    background-color: rgb(69, 69, 227);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+ }
+ .ending{
+    color: white;
+    font-weight:100;
+    font-size:1rem;
+    margin-bottom: 1rem;
+}
